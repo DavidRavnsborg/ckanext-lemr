@@ -1,5 +1,3 @@
-[![Tests](https://github.com/davidr-PA/ckanext-lemr/workflows/Tests/badge.svg?branch=main)](https://github.com/davidr-PA/ckanext-lemr/actions)
-
 # ckanext-lemr
 
 Applies custom styling and theming for the Low End of the Housing Market (LEMR) open data portal, built on CKAN.
